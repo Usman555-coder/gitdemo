@@ -1,0 +1,27 @@
+@mixin vendor($property, $value) {
+    -webkit-#{$property}: $value;
+    -moz-#{$property}: $value;
+    -ms-#{$property}: $value;
+    -o-#{$property}: $value;
+    #{$property}: $value;
+  }
+  
+  @mixin box-shadow($shadow) {
+    @include vendor(box-shadow, $shadow);
+  }
+  
+  @mixin border-radius($radius) {
+    @include vendor(border-radius, $radius);
+  }
+  
+  @mixin transition($transition) {
+    @include vendor(transition, $transition);
+  }
+
+  @mixin transform($transform) {
+    @include vendor(transform, $transform);
+  }
+
+  @mixin z-index($property) {
+    z-index: $property;
+  }

@@ -1,0 +1,17 @@
+.form-control:disabled,
+.form-control[readonly] {
+  background-color: #f7f7f7;
+}
+
+.form-control {
+  font-size: $font-size-regular;
+  &:focus {
+    @include box-shadow(none);
+  }
+}
+
+.btn {
+  &:focus {
+    @include box-shadow(none);
+  }
+}

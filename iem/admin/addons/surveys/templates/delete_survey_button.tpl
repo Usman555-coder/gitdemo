@@ -1,0 +1,1 @@
+<input type="button" name="Action" id="deleteButton" value="%%LNG_Addon_surveys_Delete%%" class="SmallButton FormButton btn save-btn" style="width:8rem">

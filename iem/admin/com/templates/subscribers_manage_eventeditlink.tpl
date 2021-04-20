@@ -1,0 +1,1 @@
+<a href="#TB_inline?a&height=420&width=500&inlineId=eventAddFormDiv" onclick="resetForm(%%GLOBAL_SubscriberID%% , %%GLOBAL_eventid%%);" title="%%LNG_EventEditTitle%%" class="viewPage_EditLink viewContact_Listing thickbox">%%LNG_Edit%%</a>

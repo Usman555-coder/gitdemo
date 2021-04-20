@@ -1,0 +1,1 @@
+<input class="FormButton SaveAddButton btn save-btn" type="button" value="%%LNG_Delete_Selected%%" style="width: 120px;" onclick="eventsDeleteSelected();">

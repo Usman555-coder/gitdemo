@@ -1,0 +1,2 @@
+<td width="200" class="customLabel col-sm-3 width20Percent" style="font-size:14px ;width: 28%;">%%GLOBAL_Required%%%%GLOBAL_FieldName%%:</td>
+<td><input type="text" class ="form-control Field350Custom customText" id="CustomFields[%%GLOBAL_FieldID%%]" name="CustomFields[%%GLOBAL_FieldID%%]" value="%%GLOBAL_DefaultValue%%" class="Field250"></td>

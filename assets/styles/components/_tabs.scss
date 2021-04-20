@@ -1,0 +1,31 @@
+.common-tabs {
+  .details {
+    .table {
+      td,
+      th {
+        font-size: $font-size-15;
+      }
+    }
+  }
+
+  .nav-tabs {
+    border-bottom: 0px;
+    .nav-item {
+      margin-right: 5px;
+    }
+    .nav-link {
+      @include border-radius(3px);
+      color: $primary-color;
+      font-size: $font-size-15;
+      border-bottom: 0px;
+      padding: 0.5rem 1.2rem;
+      border: 1px solid $primary-color;
+
+      &.active {
+        color: $white-color;
+        border-color: $primary-color;
+        background-color: $primary-color;
+      }
+    }
+  }
+}

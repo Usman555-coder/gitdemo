@@ -1,0 +1,1 @@
+<input class="SmallButton btn save-btn" type="button" style="width: 170px;" onclick="window.location.href='{$AdminUrl}&Action=create';" value="{$lang.Addon_splittest_CreateButton}" name="AddSplitTestButton" id="AddSplitTestButton" />

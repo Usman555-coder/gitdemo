@@ -1,0 +1,57 @@
+.common-table {
+  .table {
+    border-bottom: 1px solid $border-bottom;
+
+    th {
+      font-size: $font-size-15;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    &.table-checkbox {
+      td {
+        &:first-child {
+          width: 5%;
+        }
+      }
+    }
+
+    td {
+      font-size: $font-size-regular;
+      vertical-align: middle;
+      a {
+        color: #212529;
+
+        &:hover {
+          color: $primary-color;
+        }
+      }
+    }
+
+    .sorting {
+      .fa {
+        cursor: pointer;
+        color: $light-grey;
+      }
+      .fa-caret-down {
+        top: 5px;
+      }
+    }
+  }
+}
+
+.table-pagination {
+  .page-item {
+    &.active {
+      .page-link {
+        background-color: $primary-color;
+        border-color: $primary-color;
+        color: $white-color;
+      }
+    }
+    .page-link {
+      color: $primary-color;
+      font-size: $font-size-regular;
+    }
+  }
+}

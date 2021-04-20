@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="index.php?Page=Schedule&Action=Edit&job=%%GLOBAL_JobID%%">%%LNG_Edit%%</a>

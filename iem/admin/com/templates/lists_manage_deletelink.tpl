@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="javascript: ConfirmDelete('%%GLOBAL_DeleteListID%%');">%%LNG_Delete%%</a>

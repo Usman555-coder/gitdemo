@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="index.php?Page=Lists&Action=Copy&id=%%GLOBAL_CopyListID%%">%%LNG_Copy%%</a>

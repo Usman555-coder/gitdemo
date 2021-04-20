@@ -1,0 +1,1 @@
+<a class="dropdown-item" href="javascript: ConfirmDelete('%%GLOBAL_BanID%%');">%%LNG_Delete%%</a>

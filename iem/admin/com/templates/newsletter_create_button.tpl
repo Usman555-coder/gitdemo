@@ -1,0 +1,1 @@
+<input type="button" name="AddNewsletterButton" value="%%LNG_CreateNewsletterButton%%" class="createCamp SmallButton btn save-btn" style="width: 170px" onclick="javascript:window.location.href = 'index.php?Page=newsletters&Action=create';" />
