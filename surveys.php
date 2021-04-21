@@ -11,6 +11,8 @@
                 <main class="main-content">
                     <div class="h_iframe">
                         <iframe class="responsive-iframe" src="http://localhost/interspire/iem/admin/index.php?Page=Addons&Addon=surveys" width="100%" frameborder="0" height="auto"></iframe>
+						<iframe class="responsive-iframe" src="http://localhost/interspire/iem/admin/index.php?Page=Addons&Addon=surveys" width="100%" frameborder="0" height="auto"></iframe>
+						<iframe class="responsive-iframe" src="http://localhost/interspire/iem/admin/index.php?Page=Addons&Addon=surveys" width="100%" frameborder="0" height="auto"></iframe>
                     </div>
                 </main>
             </div>
